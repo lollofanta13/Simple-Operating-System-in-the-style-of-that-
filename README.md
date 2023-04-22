@@ -20,7 +20,7 @@ You know the answer.
 On windows there are a few ways to execute bash code:
 1. Download the Git Bash Terminal at https://git-scm.com/downloads
 2. Cygwin, download at: https://www.cygwin.com/install.html
-3. WSL (Windows Subsystem for Linux) a dualboot operating system that can be downloaded at: https://learn.microsoft.com/en-us/windows/wsl/install
+3. WSL (Windows Subsystem for Linux) a Linux terminal that can be downloaded at: https://learn.microsoft.com/en-us/windows/wsl/install
 
 # I do not want to download it, can I execute it online?
 Yes, you can execute Simple Operating System on Replit (where it was created) at: https://replit.com/@lollofanta13/Simple-Operating-System?v=1. 
